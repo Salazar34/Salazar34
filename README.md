@@ -5,7 +5,7 @@
 I alwayas loved IT since the age of 7, when I first took a look at my first computer (an old Toshiba). I love playing tennis, videogames and my biggest passion are supercars. My big dream is to buy an Audi R8, but I also want to become a depp expert in IT and CS.
 
 - 🌍 I'm based in Italy
-- 🖥️ See my portfolio at [portfolio](http://salboh.xyz)
+- 🖥️ See my portfolio at [salboh.xyz](http://salboh.xyz)
 - ✉️ You can contact me at [salamatteojob@gmail.com](mailto:salamatteojob@gmail.com)
 - 🚀 I'm currently working on [True Bot](http://truebot.ml)
 - 🧠 I'm learning C#
