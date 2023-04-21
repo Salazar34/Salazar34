@@ -46,8 +46,11 @@ I alwayas loved IT since the age of 7, when I first took a look at my first comp
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Salazar34"><img src="https://github-readme-stats.vercel.app/api?username=Salazar34&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Salazar34's GitHub stats" /></a>
-
 <a href="http://www.github.com/Salazar34"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Salazar34&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<div style="display: flex; align-items: center; justify-content: between; gap: 1rem;">
+  <a href="http://www.github.com/Salazar34"><img src="https://github-readme-stats.vercel.app/api?username=Salazar34&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Salazar34's GitHub stats" /></a>
+
 <a href="https://github.com/Salazar34" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salazar34&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</div>
