@@ -1,4 +1,4 @@
-# Hi, 👋 I'm Matteo
+# Hey, 👋 I'm Sal
 
 ## Italian CS student, developer and aspirant Software Enginner
 
@@ -8,9 +8,9 @@ I alwayas loved IT since the age of 7, when I first took a look at my first comp
 - 🖥️ See my portfolio at [salboh.xyz](http://salboh.xyz)
 - ✉️ You can contact me at [salamatteojob@gmail.com](mailto:salamatteojob@gmail.com)
 - 🚀 I'm currently working on [True Bot](http://truebot.ml)
-- 🧠 I'm learning C#
+- 🧠 I'm currently learning Web Dev & Software Engineering
 - 🤝 I'm open to collaborating on everything that could be interesting
-- ⚡ I love cars and trucks
+- ⚡ I love cars and MTB
 
 ### Skills
 
